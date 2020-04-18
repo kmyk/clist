@@ -1876,8 +1876,8 @@
   }, 
   {
     "name": "Asia/Choibalsan", 
-    "repr": "+9:00", 
-    "offset": 540
+    "repr": "+8:00", 
+    "offset": 480
   }, 
   {
     "name": "Asia/Dili", 
